@@ -1,5 +1,5 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Medium][medium-shield]][medium-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][medium-shield]
 
 
