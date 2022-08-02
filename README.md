@@ -11,7 +11,7 @@
 
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/alp-can-marangoz-61939a221/
+[linkedin-url]: https://www.linkedin.com/in/alpcanmarangoz/
 
 
 [medium-url]: https://medium.com/@alpcanm
